@@ -1,10 +1,17 @@
-### Oii, eu sou a Iasmin! 👋
-
+<h1> Oii, eu sou a Iasmin! 🖖</h1> 
 <div>
   <a href="https://github.com/iasmindemagalhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasmindemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmindemagalhaes&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=iasmindemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
+<div aligh="left" width=50%>
+  <li> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas </li>
+  <li> 🧠 Aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, Python e frameworks </li>
+  <li> 💻 Designer Gráfico</li>
 </div>
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Iahs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iahs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,6 +34,4 @@
   
   ##
   
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="SEUUSUARIO" /> 
-
 ![Snake animation](https://github.com/iasmindemagalhaes/iasmindemagalhaes/blob/output/github-contribution-grid-snake.svg)
