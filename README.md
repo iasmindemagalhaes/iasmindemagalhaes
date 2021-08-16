@@ -1,7 +1,8 @@
 <h1> Oii, eu sou a Iasmin! 🖖</h1>
 <div>
   <a href="https://github.com/iasmindemagalhaes">
-  <img align="right" width=50% height="180em" src="https://github-readme-stats.vercel.app/api?username=iasmindemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iasmindemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmindemagalhaes&layout=compact&langs_count=7&theme=dracula"/>
   
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 <div aligh="left">
