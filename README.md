@@ -33,7 +33,3 @@
 </div>
   
   ##
-  
-![Snake animation](https://github.com/iasmindemagalhaes/iasmindemagalhaes/blob/output/github-contribution-grid-snake.svg)
-    
- <img align="left" alt="Iahs" height="150" src="https://unedesigncriativo.com.br/wp-content/uploads/2021/08/Webp.net-gifmaker.gif">
