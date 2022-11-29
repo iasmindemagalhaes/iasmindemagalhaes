@@ -6,7 +6,7 @@
   
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 <div aligh="left">
-  <li> 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
+  <li> 👩🏻‍💻 Analista e Desenvolvedora de Sistemas</li>
   <li> 🧠 Aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, Python e frameworks</li>
   <li> 💻 Designer Gráfico</li>
 </div>
